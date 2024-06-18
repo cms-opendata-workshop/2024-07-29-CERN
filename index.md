@@ -87,7 +87,7 @@ the pitch.
 
 {% if site.carpentry == "swc" %}
 {% include swc/intro.html %}
-{% if site.carpentry == "cms" %}
+{% elsif site.carpentry == "cms" %}
 {% include swc/intro.html %}
 {% elsif site.carpentry == "dc" %}
 {% include dc/intro.html %}
@@ -109,7 +109,7 @@ workshop is only open to people from a particular institution.
 {% include swc/who.html %}
 {% elsif site.carpentry == "dc" %}
 {% include dc/who.html %}
-{% if site.carpentry == "cms" %}
+{% elsif site.carpentry == "cms" %}
 {% include swc/who.html %}
 {% elsif site.carpentry == "lc" %}
 {% include lc/who.html %}
@@ -332,7 +332,7 @@ of code below the Schedule `<h2>` header below with
 {% include swc/schedule.html %}
 {% elsif site.carpentry == "dc" %}
 {% include dc/schedule.html %}
-{% if site.carpentry == "cms" %}
+{% elsif site.carpentry == "cms" %}
 {% include swc/schedule.html %}
 {% elsif site.carpentry == "lc" %}
 {% include lc/schedule.html %}
