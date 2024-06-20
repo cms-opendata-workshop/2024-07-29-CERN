@@ -12,19 +12,20 @@ In order to modify the main workshop website, i.e., this repository, please foll
 ## How to add lessons to this workshop
 
 **The cms-opendata-workshop organization has its own Carpentries workbench template.** 
-To use this template to start a new lesson repository, 
-make sure you're logged into Github.   
-Visit https://github.com/cms-opendata-workshop/workbench-template-md/generate
-and follow the instructions.
-Checking the 'Include all branches' option will save some time waiting for the first website build
-when your new repository is initialised.
+To use this template to start a new lesson repository, make sure you're logged into Github.   
+Visit https://github.com/cms-opendata-workshop/workbench-template-md/generate and give the following settings:
+
+* Check "include all branches"
+* Choose **cms-opendata-workshop** as the owner of the new lesson
+* Choose a lesson name like **workshop2024-lesson-XXXX**, replacing "XXXX" with an informative name
+* Provide a description
+* Make the lesson repository public
 
 If you have any questions for DPOA, ask on Mattermost!. If you have any questions for the carpentries developer, contact [@tobyhodges](https://github.com/tobyhodges)
 
-## Configure a new lesson
+## Configure the new lesson
 
-Follow the steps below to
-complete the initial configuration of a new lesson repository built from this template:
+Follow the steps below to complete the initial configuration of a new lesson repository built from this template:
 
 1. **Make sure GitHub Pages is activated:**
    navigate to _Settings_,
@@ -45,13 +46,7 @@ complete the initial configuration of a new lesson repository built from this te
    navigate back to the repository landing page and
    click on the gear wheel/cog icon (similar to ⚙️) 
    at the top-right of the _About_ box.
-   Check the "Use your GitHub Pages website" option,
-   and [add some keywords and other annotations to describe your lesson](https://cdh.carpentries.org/the-carpentries-incubator.html#topic-tags)
-   in the _Topics_ field.
-   At minimum, these should include:
-   - `lesson`
-   - the life cycle of the lesson (e.g. `pre-alpha`)
-   - the human language the lesson is written in (e.g. `deutsch`)
+   Check the "Use your GitHub Pages website" option
 
 ## Notes for CMS Open Data lessons
 
