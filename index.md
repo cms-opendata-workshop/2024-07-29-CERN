@@ -174,7 +174,7 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong>
-  Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) on which they have administrative privileges.  They should have a working virtual machine or Docker container environment as listed in the pre-exercises section.
+  Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) on which they have administrative privileges.  They should have a working software container environment as listed in the pre-exercises section.
 </p>
 
 {% comment %}
