@@ -26,7 +26,8 @@ Please note that all pre-exercises <strong style="color: red;">require you to su
 
 Please add yourself to the pre-exercises Mattermost channels if you need assistance and/or are willing to help out or contribute to the discussion:
 
-* [Docker pre-exercise channel](https://mattermost.web.cern.ch/cmsodws2024/channels/docker-pre-exercise)
+* [Docker pre-exercise channel](https://mattermost.web.cern.ch/cmsodws2024/channels/docker-pre-exercise).
+  * If you will work on a remote cluster rather than a personal computer, please also join the [Apptainer help channel](https://mattermost.web.cern.ch/cmsodws2024/channels/apptainer-help)
 * [All other pre-exercises channel](https://mattermost.web.cern.ch/cmsodws2024/channels/other-pre-exercises)
 
 <!--## Workshop strategy
